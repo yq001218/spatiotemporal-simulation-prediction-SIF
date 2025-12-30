@@ -1,1 +1,2 @@
 # spatiotemporal-simulation-prediction-SIF
+**This study develops a multi-source data–driven spatiotemporal prediction framework that integrates feature selection, spatiotemporal decoupling, hybrid LSTM–Transformer modeling, and spatial interpolation to couple ecological process mechanisms with geographic heterogeneity, enabling high-precision continuous simulation and prediction of solar-induced chlorophyll fluorescence (SIF) across large-scale heterogeneous grasslands.**
