@@ -44,13 +44,3 @@ To overcome these limitations, this repository implements a **hybrid spatiotempo
 Each model follows a unified input–output interface for fair comparison.
 
 ---
-
-## 📁 Repository Structure
-
-```text
-src/
- ├── data_utils.py        # Time-series construction
- ├── metrics.py           # Evaluation metrics
- ├── models/              # All baseline and hybrid models
- ├── train.py             # Unified training pipeline
- └── evaluate.py          # Model evaluation
